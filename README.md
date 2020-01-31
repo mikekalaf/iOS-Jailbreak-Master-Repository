@@ -4,7 +4,7 @@
 This is a master list of iOS Jailbreak repositories that will be updated constantly.
 
 # iOS Jailbreak Master Repository List<br/>
-## by [@TheGreighCanary](https://twitter.com/TheGreighCanary) aka [u/NoMoreBurden](https://reddit.com/u/nomoreburden)<br/>
+by [@TheGreighCanary](https://twitter.com/TheGreighCanary) aka [u/NoMoreBurden](https://reddit.com/u/nomoreburden)<br/>
 
 ### This list will be updated consistently.
 * Please let me know if any of these repos retire by submitting an issue here. 
