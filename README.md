@@ -6,8 +6,11 @@ This is a master list of iOS Jailbreak repositories that will be updated constan
 # iOS Jailbreak Master Repository List<br/>
 by [@TheGreighCanary](https://twitter.com/TheGreighCanary) aka [u/NoMoreBurden](https://reddit.com/u/nomoreburden)<br/>
 
+### Any kind of piracy will not be allowed in the database. 
+* Please submit an issue if you notice any of these repos having any kind of piracy related activities.
+
 ### This list will be updated consistently.
-* Please let me know if any of these repos retire by submitting an issue here. 
+* Please let me know if any of these repos retire by submitting an issue here.
 
 ### Recommended Package Managers 
 * Zebra - https://getzbra.com/repo/
